@@ -1,0 +1,5 @@
+useDynLib(cxx11test)
+importFrom(Rcpp, evalCpp)
+
+export(normal_cdf)
+export(hello)

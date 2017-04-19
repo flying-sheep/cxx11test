@@ -1,0 +1,14 @@
+Package: cxx11test
+Type: Package
+Title: C++11 Test
+Version: 1.0
+Author: Test
+Maintainer: Test <test@test.com>
+Description: C++11 Test
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp
+LinkingTo: Rcpp
+SystemRequirements: C++11
+NeedsCompilation: yes
